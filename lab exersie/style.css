@@ -1,0 +1,50 @@
+body {
+    background-color: aqua;
+}
+#mainbody{
+    margin-left: 462px;
+    margin-top: 14px;
+    background: linear-gradient();
+    width: 286px;
+    height: 390px;
+    border: solid 6px;
+    border-color: blueviolet;
+    border-radius: 12px;
+    position: absolute;
+}
+#screen {
+    border-width: 7px;
+    margin-left: 39px;
+    width: 78%;
+    height: 41px;
+    margin-top: 13px;
+    border-color: aquamarine;
+    border-radius: 16px;
+    font-size: xx-large;
+    pointer-events: none;
+    
+}
+.but {
+    width: 248px;
+    height: 334px;
+    margin-left: 48px;
+}
+
+button{
+    width: 37px;
+    height: 45px;
+    margin-top: 16px;
+    background: linear-gradient();
+    margin-left: 16px;
+    border: solid green;
+    border-radius: 34px;
+    font-size: 24px;
+    font-weight: 600;
+    font-family: sans-serif;
+}
+
+button:hover{
+    cursor: pointer;
+    background: linear-gradient();
+
+}
